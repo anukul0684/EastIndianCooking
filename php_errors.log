@@ -1,0 +1,14 @@
+[23-Dec-2020 06:27:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function blog_info() in D:\Course\DIT 21031 2002 Introduction to PHP Programming\wdd-box-master\wdd-box-master\wordpress\EastIndianCooking\public\wp-content\themes\eastindiancooking\header.php:8
+Stack trace:
+#0 D:\Course\DIT 21031 2002 Introduction to PHP Programming\wdd-box-master\wdd-box-master\wordpress\EastIndianCooking\public\wp-includes\template.php(730): require_once()
+#1 D:\Course\DIT 21031 2002 Introduction to PHP Programming\wdd-box-master\wdd-box-master\wordpress\EastIndianCooking\public\wp-includes\template.php(676): load_template('D:\\Course\\DIT 2...', true, Array)
+#2 D:\Course\DIT 21031 2002 Introduction to PHP Programming\wdd-box-master\wdd-box-master\wordpress\EastIndianCooking\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 D:\Course\DIT 21031 2002 Introduction to PHP Programming\wdd-box-master\wdd-box-master\wordpress\EastIndianCooking\public\wp-content\themes\eastindiancooking\tpl_home.php(6): get_header()
+#4 D:\Co in D:\Course\DIT 21031 2002 Introduction to PHP Programming\wdd-box-master\wdd-box-master\wordpress\EastIndianCooking\public\wp-content\themes\eastindiancooking\header.php on line 8
+[23-Dec-2020 06:28:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function blog_info() in D:\Course\DIT 21031 2002 Introduction to PHP Programming\wdd-box-master\wdd-box-master\wordpress\EastIndianCooking\public\wp-content\themes\eastindiancooking\header.php:8
+Stack trace:
+#0 D:\Course\DIT 21031 2002 Introduction to PHP Programming\wdd-box-master\wdd-box-master\wordpress\EastIndianCooking\public\wp-includes\template.php(730): require_once()
+#1 D:\Course\DIT 21031 2002 Introduction to PHP Programming\wdd-box-master\wdd-box-master\wordpress\EastIndianCooking\public\wp-includes\template.php(676): load_template('D:\\Course\\DIT 2...', true, Array)
+#2 D:\Course\DIT 21031 2002 Introduction to PHP Programming\wdd-box-master\wdd-box-master\wordpress\EastIndianCooking\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 D:\Course\DIT 21031 2002 Introduction to PHP Programming\wdd-box-master\wdd-box-master\wordpress\EastIndianCooking\public\wp-content\themes\eastindiancooking\tpl_home.php(6): get_header()
+#4 D:\Co in D:\Course\DIT 21031 2002 Introduction to PHP Programming\wdd-box-master\wdd-box-master\wordpress\EastIndianCooking\public\wp-content\themes\eastindiancooking\header.php on line 8
